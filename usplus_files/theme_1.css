@@ -1,0 +1,66 @@
+body { font-family: Hind;font-size: 15px;font-weight: 400;color: ;line-height: 28px; }
+.ui-widget, .vc_tta-accordion .vc_tta-panel-title { font-family: Hind;font-size: 15px;font-weight: 400;color: ;line-height: 28px; }
+@media only screen and (min-width: 768px) {.header-section.type-header-7 .navbar-header, .header-section.type-header-8 .navbar-header { max-width: 185px; }
+.header-section.type-header-7 .is-sticky .navbar-header, .header-section.type-header-8 .is-sticky .navbar-header { max-width: 185px; }}
+.fullwidth .container { max-width: 1200px; }
+.boxed .is-sticky .header-main-section { max-width: 1200px; }
+.dropdown-menu { min-width: 220px; }
+h1 { font-family: Raleway;font-size: 45px;font-weight: 800;line-height: 42px; }
+h2, .vc_cta3-actions .vc_general.vc_btn3.vc_btn3-style-transparent { font-family: Raleway;font-size: 29px;font-weight: 300;line-height: 35px; }
+h3, .stats-number, .comment-reply-title { font-family: Raleway;font-size: 22px;font-weight: 600;line-height: 29px; }
+h4, legend { font-family: Raleway;font-size: 20px;font-weight: 600;line-height: 24px; }
+h5, .stats-text, .smile-icon-timeline-wrap .timeline-separator-text .sep-text { font-family: Raleway;font-size: 17px;font-weight: 600;line-height: 20px; }
+h6, #bbpress-forums #bbp-single-user-details #bbp-user-navigation a, .sp-scrollable-table-wrapper thead tr th, .rtb-booking-form fieldset legend, button.ubtn, .portfolio-tabs.icon_type li a { font-family: Raleway;font-size: 14px;font-weight: 600;line-height: 17px; }
+.header-section .header-top-section a { font-family: Raleway;font-size: 12px;font-weight: 500;line-height: 12px; }
+.zozo-main-nav > li > a, .zmm-wrapper .main-menu-container .navbar-nav li > a { font-family: Raleway;font-size: 13px;font-weight: 500; }
+.zozo-main-nav .dropdown-menu > li a, .zozo-main-nav .dropdown-menu .sub-menu a, .zozo-main-nav .mega-child-ul li > a, .zozo-main-nav .mega-dropdown .menu-item > a { font-family: Raleway;font-size: 12px;font-weight: 500;line-height: 20px; }
+.zozo-main-nav.navbar-nav .dropdown-menu, .zozo-main-nav.navbar-nav .dropdown-menu .sub-menu, .zozo-main-nav.navbar-nav .sub-menu, .zozo-megamenu-wrapper, .header-side-top-submenu.dropdown-menu { background-color: #FFFFFF !important;border-top-width: 3px;border-bottom-width: 0px;border-left-width: 0px;border-right-width: 0px;border-style: solid; }
+.entry-title, .page-title-section .page-title-captions h1.entry-title { font-family: Raleway;font-size: 25px;font-weight: 300;line-height: 35px; }
+.post h2.entry-title, .category-title { font-family: Raleway;font-size: 25px;font-weight: 500;line-height: 24px; }
+.widget h3 { font-family: Raleway;font-size: 17px;font-weight: 600;line-height: 20px; }
+.widget div, .widget p { font-family: Hind;font-size: 15px;font-weight: 400;line-height: 28px; }
+.footer-widgets .widget h3 { font-family: Raleway;font-size: 17px;font-weight: 600;line-height: 20px; }
+.footer-widgets .widget div, .footer-widgets .widget p { font-family: Hind;font-size: 15px;font-weight: 400;line-height: 28px; }
+.navbar-header .navbar-brand img, .navbar-brand img { max-height: 100px; }
+.header-section .header-main-section { height: 80px; }
+.header-section .header-main-section .navbar-header .navbar-brand, .header-section .header-main-section .zozo-main-nav > li, .header-section .header-main-section .zozo-main-nav > li > a, .header-section .header-main-section .main-bar-item, .header-section .header-main-section .toggle-bar-item, .header-section .header-main-section .header-toggle-content, .type-header-9 .navbar-nav.zozo-main-bar > li, .type-header-9 .navbar-nav.zozo-main-bar > li a { line-height: 80px; height: 80px; }
+.header-section.type-header-3 .header-main-section { height: 160px; }
+.header-section.type-header-3 .header-main-section .header-toggle-content { height: 79px; line-height: 79px; }
+.header-section .is-sticky .header-main-section, .header-section.type-header-3 .is-sticky .header-main-section { height: 60px; }
+.header-section .is-sticky .header-main-section .navbar-header .navbar-brand, .header-section .is-sticky .header-main-section .zozo-main-nav > li, .header-section .is-sticky .header-main-section .zozo-main-nav > li > a, .header-section .is-sticky .header-main-section .main-bar-item, .header-section .is-sticky .header-main-section .toggle-bar-item, .header-section .is-sticky .header-main-section .header-toggle-content, .type-header-9 .is-sticky .navbar-nav.zozo-main-bar > li, .type-header-9 .is-sticky .navbar-nav.zozo-main-bar > li a { line-height: 60px; height: 60px; }
+.header-section .header-logo-section li, .header-section .header-logo-section .navbar-header .navbar-brand, .header-section .header-logo-section .logo-bar-item,  .header-section .header-logo-section .logo-bar-item .zozo-main-nav li > a, .header-section.type-header-6 .header-logo-section li.header-top-cart, .type-header-6 .header-logo-section .zozo-logo-bar { line-height: 76px; height: 76px; }
+.header-section.header-fullwidth-menu .header-main-section { height: 60px; }
+.header-section.header-fullwidth-menu .header-main-section .navbar-header .navbar-brand, .header-section.header-fullwidth-menu .header-main-section .zozo-main-nav > li, .header-section.header-fullwidth-menu .header-main-section .zozo-main-nav > li > a, .header-section.header-fullwidth-menu .header-main-section .main-bar-item { line-height: 60px; height: 60px; }
+.header-section.header-fullwidth-menu .header-main-section .header-toggle-content { height: 59px; line-height: 59px; }
+.header-section.header-fullwidth-menu .is-sticky .header-main-section { height: 60px; }
+.header-section.header-fullwidth-menu .is-sticky .header-main-section .navbar-header .navbar-brand, .header-section.header-fullwidth-menu .is-sticky .header-main-section .zozo-main-nav > li, .header-section.header-fullwidth-menu .is-sticky .header-main-section .zozo-main-nav > li > a, .header-section.header-fullwidth-menu .is-sticky .header-main-section .main-bar-item { line-height: 60px; height: 60px; }
+.wp-block-file .wp-block-file__button, .wp-block-button:not(.is-style-outline) .wp-block-button__link:not(.has-background) {
+	background-color: ;
+}
+.wp-block-file .wp-block-file__button:hover, .wp-block-button:not(.is-style-outline) .wp-block-button__link:not(.has-background):hover {
+	background-color: rgba(,,,0.8);
+}
+.wp-block-button.is-style-outline .wp-block-button__link:not(.has-text-color) {
+	color: ;
+}
+body:not(.single-post) .wp-block-button__link:not(.has-background) {
+	background-color: ;
+}
+body:not(.single-post) .wp-block-button__link:not(.has-background):hover {
+	background-color: rgba(,,,0.8);
+}
+.page-links .post-page-numbers:hover,
+.page-links .post-page-numbers:active,
+.page-links .post-page-numbers:focus,
+.page-links .post-page-numbers.current {
+	background-color: ;
+}
+.mejs-controls .mejs-time-rail .mejs-time-current {
+	background-color:;
+}
+.wp-block-quote:not(.is-large):not(.is-style-large),
+.wp-block-freeform blockquote,
+.wp-block-quote[style*="text-align:right"], 
+.wp-block-quote[style*="text-align: right"] {
+	border-color: ;
+}

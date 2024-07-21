@@ -1,0 +1,2 @@
+// Equal Heights
+!function(i){"use strict";i.fn.equalHeights=function(h){return i(this).each(function(){var t=0;i(this).children().each(function(){i(this).height()>t&&(t=i(this).height())}),!h&&Number.prototype.pxToEm&&(t=t.pxToEm()),i.browser.msie&&6===i.browser.version&&this.children().css({height:t}),i(this).children().css({"min-height":t})}),this}}(jQuery);

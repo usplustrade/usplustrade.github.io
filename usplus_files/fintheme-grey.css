@@ -1,0 +1,936 @@
+/* ------------- Global ------------- */
+a {
+	color: #223342;
+}
+.page-title-section .page-title-breadcrumbs .zozo-breadcrumbs a:hover,
+.page-title-section.page-titleskin-dark .page-title-breadcrumbs .zozo-breadcrumbs a:hover,
+.page-title-section.page-titleskin-dark .page-title-breadcrumbs .zozo-breadcrumbs a:focus,
+.sidebar .zozo-latest-posts .posts-title a:hover {
+    color: #223342;
+}
+blockquote:before,
+blockquote:after {
+	color: #223342;
+}
+.bg-style.bg-normal {
+	background-color: #223342!important;
+	fill: #223342;
+}
+.bg-overlay-primary:before {
+	background: rgba(34, 51, 66,0.8);
+}
+.typo-dark h1 > a:hover,
+.typo-dark h1 > a:active,
+.typo-dark h1 > a:focus,
+.typo-dark h2 > a:hover,
+.typo-dark h2 > a:active,
+.typo-dark h2 > a:focus,
+.typo-dark h3 > a:hover,
+.typo-dark h3 > a:active,
+.typo-dark h3 > a:focus,
+.typo-dark h4 > a:hover,
+.typo-dark h4 > a:active,
+.typo-dark h4 > a:focus,
+.typo-dark h5 > a:hover,
+.typo-dark h5 > a:active,
+.typo-dark h5 > a:focus,
+.typo-dark h6 > a:hover,
+.typo-dark h6 > a:active,
+.typo-dark h6 > a:focus,
+.typo-light h1 > a:hover,
+.typo-light h1 > a:active,
+.typo-light h1 > a:focus,
+.typo-light h2 > a:hover,
+.typo-light h2 > a:active,
+.typo-light h2 > a:focus,
+.typo-light h3 > a:hover,
+.typo-light h3 > a:active,
+.typo-light h3 > a:focus,
+.typo-light h4 > a:hover,
+.typo-light h4 > a:active,
+.typo-light h4 > a:focus,
+.typo-light h5 > a:hover,
+.typo-light h5 > a:active,
+.typo-light h5 > a:focus,
+.typo-light h6 > a:hover,
+.typo-light h6 > a:active,
+.typo-light h6 > a:focus {
+    color: #223342;
+}
+
+/*--------------Page loader-----------*/
+.pageloader .ball-clip-rotate > div {
+    border-color: #223342;
+    border-bottom-color: transparent;
+}
+/* ------------- Button ------------- */
+.btn,
+.btn.btn-default,
+input[type="submit"],
+button[type="submit"],
+.vc_general.vc_btn3.vc_btn3-color-primary-bg,
+.vc_btn.vc_btn-primary-bg,
+.vc_general.vc_btn3.vc_btn3-color-juicy-pink,
+.btn-modal.btn-primary {
+	background: #223342;
+}
+.btn:hover,
+.btn:focus,
+input[type="submit"]:hover,
+input[type="submit"]:focus,
+.tagcloud a:hover,
+.tagcloud a:focus,
+.vc_general.vc_btn3.vc_btn3-style-default:hover,
+.vc_general.vc_btn3.vc_btn3-style-default:focus,
+.vc_general.vc_btn3.vc_btn3-style-default:active,
+.vc_general.vc_btn3.vc_btn3-color-primary-bg:hover,
+.vc_general.vc_btn3.vc_btn3-color-primary-bg:focus,
+.vc_general.vc_btn3.vc_btn3-color-primary-bg:active,
+.vc_btn.vc_btn-primary-bg:hover,
+.vc_btn.vc_btn-primary-bg:focus,
+.vc_btn.vc_btn-primary-bg:active,
+.vc_general.vc_btn3.vc_btn3-color-juicy-pink:hover,
+.vc_general.vc_btn3.vc_btn3-color-juicy-pink:focus,
+.vc_general.vc_btn3.vc_btn3-color-juicy-pink:active,
+.wpcf7 input[type="submit"]:hover,
+.wpcf7 input[type="submit"]:focus,
+.pager li > a:hover,
+.pager li > span:hover,
+.pager li > a:focus,
+.pager li > span:focus,
+.owl-carousel.owl-theme .owl-controls .owl-nav div:hover {
+    background-color: rgba(34, 51, 66,0.8);
+}
+.btn-transparent-black:hover,
+.btn.btn-transparent-black:hover,
+.btn-transparent-white:hover,
+.btn.btn-transparent-white:hover,
+.btn-transparent-black-inverse,
+.btn.btn-transparent-black-inverse,
+.btn-transparent-white-inverse,
+.btn.btn-transparent-white-inverse,
+.btn-transparent-color,
+.btn.btn-transparent-color,
+.btn-transparent-color-inverse:hover,
+.btn.btn-transparent-color-inverse:hover {
+	color: #223342;
+}
+.btn-transparent-color:hover,
+.btn.btn-transparent-color:hover,
+.btn-transparent-color-inverse,
+.btn.btn-transparent-color-inverse {
+	background-color: #223342;
+}
+.vc_general.vc_btn3.vc_btn3-style-outline.vc_btn3-color-primary-bg,
+.vc_general.vc_btn3.vc_btn3-style-outline.vc_btn3-color-primary-bg:hover,
+.btn-transparent-color,
+.btn.btn-transparent-color,
+.btn-transparent-color-inverse:hover,
+.btn.btn-transparent-color-inverse:hover,
+.btn-transparent-color:hover,
+.btn.btn-transparent-color:hover,
+.btn-transparent-color-inverse,
+.btn.btn-transparent-color-inverse {
+	border-color: #223342;
+}
+.bg-skin-dark .vc_general.vc_btn3.vc_btn3-style-outline.vc_btn3-color-primary-bg {
+	color: #223342;
+}
+.parallax-background .parallax-content a.btn:hover,
+.parallax-background .parallax-content a.btn:active,
+.parallax-background .parallax-content a.btn:focus {
+	color: #223342;
+}
+#respond .form-submit input[type="submit"],
+input[type="submit"],
+.wpcf7 input[type="submit"],
+button[type="submit"] {
+	background-color: #223342;
+}
+.bg-style.dark-wrapper .vc_general.vc_cta3 .vc_cta3-actions .vc_general.vc_btn3.vc_btn3-style-transparent.vc_btn3-color-primary-bg {
+	color: #223342;
+}
+/* Go Button Styles */
+.vc_btn3-color-primary-bg.vc_btn3-style-outline:hover,
+.vc_btn3-color-primary-bg.vc_btn3-style-outline:focus,
+.vc_btn3-color-primary-bg.vc_btn3-style-outline:active {
+	background-color: #223342;
+}
+.vc_btn3-color-primary-bg.vc_btn3-style-outline {
+	border-color: #223342;
+}
+.vc_btn3-color-primary-bg.vc_btn3-style-outline,
+.vc_general.vc_btn3.vc_btn3-style-transparent.vc_btn3-color-primary-bg {
+	color: #223342;
+}
+button.ubtn .ubtn-hover {
+	background: #223342;
+}
+.ubtn.ubtn-center-dg-bg .ubtn-hover,
+.ubtn.ubtn-top-bg .ubtn-hover,
+.ubtn.ubtn-bottom-bg .ubtn-hover,
+.ubtn.ubtn-left-bg .ubtn-hover,
+.ubtn.ubtn-right-bg .ubtn-hover,
+.ubtn.ubtn-center-hz-bg .ubtn-hover,
+.ubtn.ubtn-center-vt-bg .ubtn-hover {
+	background-color: #223342;
+}
+/* ------------- VC Progress Bar ------------- */
+.bar-style-tooltip .tooltip .tooltip-inner {
+	background: #223342;
+}
+.bar-style-tooltip .tooltip.top .tooltip-arrow {
+	border-top-color: #223342;
+}
+/* ------------- Header top section ------------- */
+.header-top-section a:hover,
+.header-top-section a:focus,
+.header-main-bar-sidemenu > a.active {
+	color: #223342;
+}
+.cart-count {
+	background: #223342;
+}
+/* ------------- Header logo section ------------- */
+.header-logo-section .navbar-nav > li a:hover,
+.header-logo-section .header-contact-details li > a:hover {
+	color: #223342;
+}
+.header-logo-section .header-contact-details > li.header-phone:before,
+.header-logo-section .header-contact-details > li.header-email:before {
+	color: #223342;
+}
+.header-details-box:hover .header-details-icon > i {
+	color: #223342;
+}
+/* ------------- Navigation menu ------------- */
+.header-section .header-main-section .zozo-main-nav > li > a:hover,
+.header-section .header-main-section .zozo-main-nav > li:hover > a,
+.header-section .header-main-section .zozo-main-nav > li.active > a,
+.header-section a:hover,
+.header-section i:hover,
+.header-section .zozo-main-nav li.current-menu-ancestor > a,
+.header-section .zozo-main-nav li.current-menu-parent > a,
+.header-section .zozo-main-nav li.current-menu-item > a,
+.header-section .header-main-section .zozo-main-nav.navbar-nav .dropdown-menu > li > a:focus,
+.header-section .header-main-section .zozo-main-nav.navbar-nav .dropdown-menu > li > a:hover,
+.header-section .header-main-section .zozo-main-nav.navbar-nav .sub-menu > li > a:focus,
+.header-section .header-main-section .zozo-main-nav.navbar-nav .sub-menu > li > a:hover,
+.header-section .header-main-section .dropdown-menu > li.dropdown:hover > a,
+.header-section .header-main-section .sub-menu > li.dropdown:hover > a,
+.header-section .header-main-section .dropdown-menu > .active > a,
+.header-section .header-main-section .dropdown-menu > .active > a:focus,
+.header-section .header-main-section .dropdown-menu > .active > a:hover,
+.header-section .header-main-section .menu-item.active > a,
+.header-section .header-main-section .mobile-sub-menu > li > a:hover,
+.header-section .header-main-section .mobile-sub-menu > li > a:active,
+.header-section .header-main-section .mobile-sub-menu > li > a:focus,
+.header-section .header-toggle-section .nav > li > a:focus,
+.header-section .header-toggle-section .nav > li > a:hover,
+.header-section .header-logo-section .header-contact-details li a:hover,
+.header-section .header-toggle-section .header-contact-details li a:hover,
+.header-toggle-section .header-side-top-section .header-side-top-submenu.dropdown-menu li > a:hover,
+.header-main-section li.header-side-wrapper > a:focus,
+.header-skin-light.header-transparent .header-top-section ul > li a:hover,
+.header-section.header-skin-dark .header-main-section .zozo-main-nav li.current-menu-item > a,
+.header-section .zozo-main-nav .mobile-sub-menu > li > a:hover,
+.header-section.header-menu-skin-dark .header-main-section a:hover,
+.header-section.header-menu-skin-light .header-main-section a:hover,
+.header-overlay-menu-wrapper .zozo-main-nav > li > a:hover,
+.header-section .zozo-main-nav .dropdown-menu.mega-dropdown-menu li a:hover {
+	color: #223342;
+}
+/* Custom For Fintheme */
+.header-section .header-main-section .zozo-main-nav > li > a:hover, 
+.header-section .header-main-section .zozo-main-nav > li:hover > a, 
+.header-section .header-main-section .zozo-main-nav > li.active > a, 
+.header-section a:hover, .header-section i:hover, 
+.header-section .zozo-main-nav li.current-menu-ancestor > a, 
+.header-section .zozo-main-nav li.current-menu-parent > a, 
+.header-section .zozo-main-nav li.current-menu-item > a,
+.header-section.header-skin-dark .header-main-section .zozo-main-nav li.current-menu-item > a{
+	color: #98a9bb;
+}
+
+/* Dark Header */
+.header-section.header-dropdown-skin-dark .header-main-section .zozo-main-nav.navbar-nav .dropdown-menu > li > a:focus,
+.header-section.header-dropdown-skin-dark .header-main-section .zozo-main-nav.navbar-nav .dropdown-menu > li > a:hover,
+.header-section.header-dropdown-skin-dark .header-main-section .zozo-main-nav.navbar-nav .sub-menu > li > a:focus,
+.header-section.header-dropdown-skin-dark .header-main-section .zozo-main-nav.navbar-nav .sub-menu > li > a:hover,
+.header-section.header-dropdown-skin-dark .header-main-section .dropdown-menu > li.dropdown:hover > a,
+.header-section.header-dropdown-skin-dark .header-main-section .sub-menu > li.dropdown:hover > a,
+.header-section.header-dropdown-skin-dark .header-main-section .dropdown-menu > .active > a,
+.header-section.header-dropdown-skin-dark .header-main-section .dropdown-menu > .active > a:focus,
+.header-section.header-dropdown-skin-dark .header-main-section .dropdown-menu > .active > a:hover{
+	color: #98a9bb;
+}
+
+.header-section.header-dropdown-skin-dark .zozo-main-nav .dropdown-menu.mega-dropdown-menu li a:hover {
+	color: #98a9bb;
+}
+
+.header-section.header-skin-dark .header-top-section, 
+.header-section.header-skin-dark .header-logo-section, 
+.header-section.header-skin-dark .header-main-section, 
+.header-section.header-skin-dark .is-sticky .header-main-section, 
+.header-section.header-skin-dark .dropdown-menu, 
+.header-section.header-skin-dark .sub-menu, 
+.header-section.header-skin-dark .header-toggle-content, 
+.header-section.header-skin-dark .header-toggle-section, 
+.header-section.header-skin-dark .header-sidenav-section, 
+.header-skin-dark.mobile-header-section, 
+.is-sticky .header-skin-dark.header-transparent.mobile-header-section, 
+.is-sticky .header-skin-dark.header-semi-transparent.mobile-header-section, 
+.header-section.header-skin-dark .header-main-section.header-toggle-visible, 
+.header-section.header-skin-dark.header-transparent .header-main-section.header-toggle-visible, 
+.header-section.header-transparent.header-menu-skin-dark .header-main-section.header-toggle-visible{
+	background:#223342;
+}
+.header-transparent .header-main-section,
+.header-transparent .header-logo-section{ 
+background:transparent !important;
+}
+
+.header-section.header-skin-dark.header-transparent .is-sticky .header-main-section,
+.header-section.header-skin-dark .header-main-section.navbar.header-toggle-visible{
+	background:#223342!important;
+}
+.header-section.header-skin-light.header-transparent .is-sticky .header-main-section,
+.header-section.header-skin-light .header-main-section.navbar.header-toggle-visible{
+	background:#fff!important;
+}
+/* Footer */
+.footer-section.footer-skin-dark, 
+.footer-skin-dark .footer-backtotop a{	
+	background:#17222c;
+}
+.footer-section.footer-skin-dark .footer-copyright-section, 
+.footer-skin-dark .footer-widgets .form-control{
+	background:#223342;
+}
+.footer-section.footer-skin-dark .footer-widgets .widget, 
+.footer-section.footer-skin-dark .latest-posts-menu .entry-date, 
+.footer-section.footer-skin-dark caption,
+.footer-section.footer-skin-dark p.subscribe-desc, 
+.footer-section.footer-skin-dark .footer-copyright-section p, .footer-section.footer-skin-dark .zozo-footer-nav.navbar-nav > li > a,
+.footer-section.footer-skin-dark .widget.widget_recent_entries li a, 
+.footer-section.footer-skin-dark .widget.widget_recent_comments li .comment-author-link a, .footer-section.footer-skin-dark .widget.zozo_category_posts_widget li a, 
+.footer-section.footer-skin-dark .widget.widget_categories li a, 
+.footer-section.footer-skin-dark .widget.widget_archive li a, 
+.footer-section.footer-skin-dark .widget.widget_meta li a, 
+.footer-section.footer-skin-dark .widget.widget_nav_menu li a, 
+.footer-section.footer-skin-dark .widget li .tweet-user-name a, 
+.footer-section.footer-skin-dark .widget.zozo_popular_posts_widget .posts-title > a, 
+.footer-section.footer-skin-dark .zozo-tabs-widget a, 
+.footer-section.footer-skin-dark .widget.widget_pages li > a{
+	color: #98a9bb;
+}
+.footer-section.footer-skin-dark .footer-copyright-section  a{
+	color: #98a9bb;
+}
+.footer-section.footer-skin-dark .zozo_tweet_text a,
+.footer-section.footer-skin-dark .widget .tweet-time,
+.footer-section.footer-skin-dark .footer-copyright-section  a:hover{
+	color: #fff;
+}
+.footer-section.footer-skin-dark .footer-widgets .widget h3, .footer-section.footer-skin-dark .widget.zozo_popular_posts_widget li.posts-item, .footer-section.footer-skin-dark .widget .tweet-item, .footer-section.footer-skin-dark .zozo-tabs-widget .tab-content > .tab-pane, .footer-section.footer-skin-dark .zozo-tabs-widget .nav-tabs li.active h6 a, .footer-section.footer-skin-dark .nav-tabs, .footer-section.footer-skin-dark .zozo-tabs-widget .nav-tabs li h6 a:hover, .footer-section.footer-skin-dark .widget-posts-list li{
+	border-color:#223342;
+}
+/* End Custom Fintheme */
+
+.zozo-main-nav.navbar-nav .dropdown-menu,
+.zozo-main-nav.navbar-nav .dropdown-menu .sub-menu,
+.zozo-main-nav.navbar-nav .sub-menu,
+.zozo-megamenu-wrapper,
+.header-side-top-submenu.dropdown-menu {
+	border-color: #223342;
+}
+.header-section .header-main-section .header-top-cart .cart-icon .cart-count,
+.header-toggle-section .header-top-cart .cart-icon {
+	background: #223342;
+}
+.header-section.header-skin-light .zozo-megamenu-widgets-container .widget li a:hover,
+.header-section.header-skin-dark .zozo-megamenu-widgets-container .widget li a:hover {
+	color: #223342;
+}
+.header-section.header-transparent .header-top-section a:hover,
+.header-section.header-semi-transparent .header-top-section a:hover,
+.header-section.header-transparent .header-top-section a:focus,
+.header-section.header-semi-transparent .header-top-section a:focus {
+	color: #223342;
+}
+.mobile-menu-wrapper .mobile-menu-nav,
+.mobile-cart-wrapper .mobile-cart-link {
+	background:#223342;
+}
+/* TOGGLE HEADER */
+.header-section.type-header-9 .header-toggle-section .close-menu,
+.header-toggle-section .header-side-top-section .header-side-topmenu .btn:hover {
+	background:#223342;
+}
+.header-side-main-section .main-bar-item.item-cart .cart-icon {
+	background:#223342;
+}
+.header-section .menu-item .new-tag {
+	background:#223342;
+}
+.header-section .menu-item .new-tag:before {
+	border-right-color:#223342;
+}
+/* FULL SCREEN SEARCH */
+.header-fullscreen-search-wrapper .fullscreen-search-inner .btn.btn-search:hover,
+.header-fullscreen-search-wrapper .fullscreen-search-inner .btn.btn-search:focus {
+	color: #223342;
+}
+/* MOBILE NAV */
+.main-mobile-nav .zozo-main-nav li.active > .toggle-wrapper a,
+.main-mobile-nav .mobile-sub-menu li.active > a,
+.main-mobile-nav .zozo-main-nav li a:hover,
+.main-mobile-nav .zozo-main-nav .submenu-toggle:hover,
+.main-mobile-nav .current-menu-ancestor > .toggle-wrapper a,
+.main-mobile-nav .current-menu-ancestor > .toggle-wrapper .zozo-megamenu-title {
+    color: #223342;
+}
+/* ------------- Form ------------- */
+#contactform1 .form-group input:focus,
+#contactform1 .form-control:focus,
+#contactform1 textarea:focus,
+input:focus,
+.form-control:focus,
+textarea:focus,
+#respond input:focus,
+#respond textarea:focus,
+#buddypress #whats-new:focus {
+	border-color: #223342 !important;
+}
+
+/* ------------------ Secondary Menu widgets ------------------ */
+.secondary_menu .widget.widget_recent_entries li a:hover,
+.secondary_menu .widget.widget_recent_comments li .comment-author-link a:hover,
+.secondary_menu .widget.zozo_category_posts_widget li a:hover,
+.secondary_menu .widget.widget_categories li a:hover,
+.secondary_menu .widget.widget_archive li a:hover,
+.secondary_menu .widget.widget_meta li a:hover,
+.secondary_menu .widget.widget_nav_menu li a:hover,
+.secondary_menu .widget.widget_nav_menu li.current_page_item a,
+.secondary_menu .widget li .tweet-user-name a:hover,
+.secondary_menu .widget.zozo_popular_posts_widget .posts-title > a:hover,
+.secondary_menu .zozo-tabs-widget a:hover,
+.secondary_menu .widget.widget_pages li > a:hover {
+	color: #223342;
+}
+/* ------------- Parallax Sub Title ------------- */
+.parallax-sub-title, .typo-light .parallax-sub-title {
+	color: #223342;
+}
+/* ------------- Feature Box ------------- */
+.grid-item a > .grid-title:hover,
+.typo-light .grid-item a > .grid-title:hover {
+	color: #223342;
+}
+/* Icon Color */
+.zozo-icon.icon-bordered.icon-shape,
+.zozo-icon.icon-light.icon-shape,
+.zozo-feature-box .grid-item .grid-icon-wrapper .grid-icon.icon-none,
+.zozo-feature-box .grid-item .grid-icon-wrapper .grid-icon.icon-shape.icon-transparent,
+.zozo-feature-box .grid-item .grid-icon-wrapper .grid-icon.icon-shape.icon-pattern,
+.zozo-feature-box .grid-item .grid-icon-wrapper .grid-icon.icon-shape.icon-bordered,
+.zozo-features-list-wrapper .features-list-inner .features-icon {
+	color: #223342;
+}
+.bg-style.bg-normal .zozo-icon.icon-bg.icon-shape,
+.bg-style.bg-normal .zozo-icon.icon-border-bg.icon-shape,
+.bg-style.bg-normal .zozo-icon.icon-border-bg-space.icon-shape,
+.bg-style.bg-normal .zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-bg .zozo-icon,
+.bg-style.bg-normal .zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-bg-br .zozo-icon,
+.bg-style.bg-normal .zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-br .zozo-icon {
+    color: #223342;
+}
+/* Icon BG Color */
+.zozo-icon.icon-bg.icon-shape,
+.zozo-icon.icon-border-bg.icon-shape,
+.zozo-icon.icon-border-bg-space.icon-shape {
+	background-color: #223342;
+}
+/* Icon Bordered w/ Background Alt Style */
+.zozo-icon.icon-border-bg-space.icon-shape:after {
+    box-shadow: 0 0 0 2px #223342;
+}
+/* Icon Hover Color */
+.zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-color .zozo-icon.icon-light.icon-shape,
+.zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-color .grid-icon.icon-none.icon-skin-light,
+.zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-color .grid-icon.icon-none.icon-skin-dark {
+	color: #223342;
+}
+/* Icon Hover Bg Color */
+.feature-box-style.style-box-with-bg .grid-item .grid-box-inner.grid-text-center:after,
+.feature-box-style.style-box-with-bg .grid-item .grid-box-inner .grid-icon:after,
+.grid-item .grid-box-inner .grid-overlay-top .grid-icon-wrapper .grid-icon:after,
+.icon-bottom-line .grid-icon-wrapper:after {
+	background-color: #223342;
+}
+/* Icon Hover border & Bg color */
+.zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-bg-br .grid-icon.icon-shape.icon-bordered,
+.zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-all .grid-icon.icon-shape.icon-bordered-bg {
+	border-color: #223342;
+}
+.zozo-feature-box.feature-box-style.style-overlay-box .grid-box-inner,
+.grid-item .grid-box-inner .grid-overlay-bottom {
+	background-color: #223342;
+}
+/* Icon Hover Icon & Bg Color */
+.zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-bg-icon .grid-icon.icon-shape,
+.zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-all .grid-icon.icon-shape {
+	color: #223342;
+}
+.zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-bg-icon .grid-icon.icon-shape.icon-dark,
+.zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-bg .zozo-icon.icon-dark.icon-shape,
+.zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-bg-icon .grid-icon.icon-shape.icon-light,
+.zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-bg-icon .grid-icon.icon-shape.icon-bordered,
+.zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-all .grid-icon.icon-shape.icon-dark,
+.zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-all .grid-icon.icon-shape.icon-light,
+.zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-all .grid-icon.icon-shape.icon-bordered {
+	background-color: #223342;
+}
+.zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-bg-icon .grid-icon.icon-shape.icon-pattern,
+.zozo-feature-box .grid-item:hover .grid-icon-wrapper.icon-hv-all .grid-icon.icon-shape.icon-pattern {
+	background-color: #223342;
+}
+.top-border-style:after {
+	border-color: #223342;
+}
+/* ------------- Progress Bar ------------- */
+.vc_progress_bar .vc_single_bar .vc_bar {
+	background-color: #223342;
+}
+/* ------------- Tabs ------------- */
+.nav-tabs > li > a:hover,
+.zozo-left-vertical .nav-tabs > li > a:hover,
+.zozo-right-vertical .nav-tabs > li > a:hover {
+	background-color: #223342;
+}
+.nav-tabs > li > a:hover,
+.zozo-left-vertical .nav-tabs > li > a:hover,
+.zozo-right-vertical .nav-tabs > li > a:hover,
+.zozo-left-vertical .nav-tabs > li.active > a,
+.zozo-right-vertical .nav-tabs > li.active > a,
+.zozo-tab-horizontal .nav-tabs > li.active a,
+.zozo-tab-horizontal .nav-tabs > li > a:hover,
+.zozo-right-vertical .nav-tabs.tabs-right > li.active > a {
+	background: #223342;
+}
+/* VC Tabs */
+.vc_tta-color-white.vc_tta-style-classic .vc_tta-tab.vc_active > a {
+	border-bottom-color: #223342!important;
+}
+/* VC FAQ */
+.vc_toggle .vc_toggle_icon {
+	background-color: #223342;
+}
+/* ------------- Accordion ------------- */
+.zozo-accordion.zozo-accordion-default .panel-title a,
+.zozo-accordion.zozo-accordion-classic .panel-title a {
+	color: #223342;
+}
+/* ------------- Counter ------------- */
+.counter-style-1 .zozo-counter-count,
+.zozo-counter:hover .counter-icon > i {
+	color: #223342;
+}
+/* ------------- Pie chart ------------- */
+.zozo-piechart-content .circle-counter-title {
+	 color: #223342;
+}
+/* ------------- Dropcap ------------- */
+.dropcap {
+	color: #223342;
+}
+.text-hightlight {
+	background-color: #223342;
+}
+/* ------------- Service Box ------------- */
+.zozo-vc-service-box .service-box-inner .service-ribbon-text,
+.zozo-vc-service-box .service-desc {
+	background-color: #223342;
+}
+.zozo-vc-service-box:hover .service-box-inner {
+    box-shadow: 0 0 7px #223342 inset;
+	-webkit-box-shadow: 0 0 7px #223342 inset;
+	-moz-box-shadow: 0 0 7px #223342 inset;
+	-ms-box-shadow: 0 0 7px #223342 inset;
+	-o-box-shadow: 0 0 7px #223342 inset;
+	border-color: #223342;
+}
+/* ------------- Team Member ------------- */
+.team-item .team-member-name a:hover {
+	color: #223342;
+}
+.team-content {
+	border-color: #223342;
+}
+/* ------------- Testimonials ------------- */
+.testimonial-item .testimonial-content blockquote:before,
+.testimonial-item .testimonial-content blockquote:after {
+	color: #223342;
+}
+.zozo-video-controls #video-play:hover,
+.zozo-video-controls #video-play:focus {
+	color: #223342;
+}
+/* ------------- Twitter Slider ------------- */
+.zozo-twitter-slider-wrapper:before {
+	background: #223342;
+}
+/* ------------- Owl Carousel Navigation ------------- */
+.owl-carousel.owl-theme .owl-controls .owl-nav div {
+   background-color: #223342;
+}
+/* ------------- Owl Carousel Dots ------------- */
+.owl-carousel.owl-theme .owl-controls .owl-dots .owl-dot.active span {
+    background: #223342;
+}
+/* ------------- Call To Action ------------- */
+.vc_btn3.vc_btn3-style-custom {
+    background: #223342!important;
+}
+.vc_btn3.vc_btn3-style-custom:hover {
+    background-color: rgba(34, 51, 66,0.8)!important;
+}
+.vc_icon_element-background-color-primary-bg {
+    background: #223342;
+}
+/* VC Slider */
+.vc_row .vc_images_carousel .vc_carousel-indicators .vc_active {
+    border-color: #223342;
+    background: none;
+}
+.vc_row .vc_images_carousel .vc_carousel-indicators li {
+    background-color: #223342;
+    border-color: #223342;
+}
+/* ------------- Pricing Table ------------- */
+.zozo-pricing-item.active .pricing-head:after {
+	background-color: #223342;
+}
+.zozo-pricing-item .pricing-ribbon-wrapper .pricing-ribbon {
+	background: #223342; /* Old browsers */
+	background: -moz-linear-gradient(top,  #223342 0%, #2D87C4 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#223342), color-stop(100%,#2D87C4)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #223342 0%,#2D87C4 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top, #223342 0%,#2D87C4 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top, #223342 0%,#2D87C4 100%); /* IE10+ */
+	background: linear-gradient(to bottom, #223342 0%,#2D87C4 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#223342', endColorstr='#2D87C4',GradientType=0 ); /* IE6-9 */
+}
+.zozo-pricing-table-wrapper.featured-item .pricing-box .pricing-head h4,
+.zozo-pricing-table-wrapper.featured-item .pricing-bottom .btn.btn-default {
+	background-color: #223342;
+}
+.zozo-pricing-table-wrapper.featured-item {
+	border-color: #223342;
+}
+.zozo-pricing-table-wrapper.featured-item .zozo-pricing-item .pricing-cost-wrapper {
+	background-color: #223342;
+}
+
+.blog-carousel-slider .owl-prev.style-light,
+.blog-carousel-slider .owl-next.style-light {
+	background: #223342;
+}
+/* ------------- Pagination & Pager ------------- */
+.pagination > li > span.current,
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+    background-color: #223342;
+} 
+
+.pagination > li > a.prev:hover:after,
+.pagination > li > a.prev:active:after,
+.pagination > li > a.prev:focus:after,
+.pagination > li > a.next:hover:after,
+.pagination > li > a.next:active:after,
+.pagination > li > a.next:focus:after {
+    background-color: #223342;
+    border-color: #223342;
+}
+.pager li > a,
+.pager li > span {
+	border-color: #223342;
+	background-color: #223342;
+}
+/* ------------- Social Email Icon ------------- */
+.zozo-social-share-icons li a {
+    background-color: transparent;
+    border-color: #223342;
+}
+.zozo-social-share-icons li.email a:hover {
+    background-color: #223342!important;
+}
+.zozo-social-icons.soc-icon-transparent li.email a:hover,
+.zozo-social-icons.soc-icon-transparent li.email a:hover i {
+    color: #223342;
+}
+.zozo-social-icons li.email a:hover {
+	background-color: #223342;
+}
+
+/* Addons Icon Color */
+.stats-block .aio-icon i {
+	color: #223342;
+}
+/* ------------- Blog ------------- */
+.latest-posts-layout .entry-meta .read-more > a:after {
+	color: #223342;
+}
+.grid-posts .posts-content-container,
+.latest-posts-slider .posts-content-container {
+	border-color: #223342;
+}
+.large-posts h2.entry-title a:hover,
+.large-posts h2.entry-title a:focus {
+    color: #223342;
+}
+.entry-meta a:hover,
+.entry-meta a:active,
+.entry-meta a:focus {
+	color: #223342;
+}
+.post .btn-more.read-more-link:hover, .post .btn-more.read-more-link:active, .post .btn-more.read-more-link:focus {
+    color: #223342;
+}
+.grid-layout .comments-link > a:hover {
+	color: #223342;
+}
+.post-tags > a:hover,
+.post-tags > a:active,
+.post-tags > a:focus {
+	color: #223342;
+}
+.comment-form .zozo-input-group-addon .input-group-addon {
+	color: #223342;
+}
+.comment-container span i,
+.comment-container a i {
+	color: #223342;
+}
+#respond.comment-respond .form-submit input[type="submit"] {
+	border-color: #223342;
+	background-color: #223342;
+}
+.post blockquote:after {
+	background: #223342;
+}
+article.post .post-inner-wrapper .post-featured-image a:after,
+.latest-posts-slider .post-featured-image a:after,
+.related-post-item .entry-thumbnail .post-img:after{
+	background-color: rgba(34, 51, 66,0.8);
+}
+/* Blog List */
+.entry-title a:hover,
+.related-content-wrapper h5 .post-link:hover {
+	color: #223342;
+}
+
+.large-layout .entry-title:before{
+	background-color: #223342;
+}
+/*widget*/
+.tagcloud a{
+	background-color: #223342;
+}
+.latest-posts-menu .entry-date i {
+	color: #223342;
+}
+.zozo-tabs-widget .tabs .zozo-tab-content a:hover {
+	color: #223342;
+}
+.footer-widgets .widget a:hover {
+	color: #223342;
+}
+
+/* Futured Images Slider */
+.featured-caption .featured-caption-inner .featured-post-title a:hover {
+	color: #223342;
+}
+/* ------------- Audio & Video Player ------------- */
+.mejs-audio .mejs-controls .mejs-time-rail .mejs-time-current,
+.video-player .mejs-controls .mejs-time-rail .mejs-time-current,
+.mejs-container .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
+    background: #223342;
+}
+.zozo-client-grid img:hover {
+	border-color: #223342;
+}
+/* Time Table */
+.time-table .table > thead {
+	background-color:#223342;
+}
+/* ------------- Contact Form ------------- */
+.zozo-input-group-addon .input-group-addon {
+	color: #223342;
+}
+/* ------------- Contact Us ------------- */
+.contact-info-inner h4.contact-widget-title {
+	color: #223342;
+}
+.contact-info-inner h5 a {
+	color: #223342;
+}
+.zozo-social-icons.social-style-background li a,
+.contact-info-style2 h6 {
+    background: #223342;
+}
+/* ------------- Footer ------------- */
+.footer-widgets-section .flickr_photo_item a:after {
+    background:#223342;
+}
+.footer-backtotop a:hover,
+.footer-backtotop a:focus,
+.footer-backtotop a:active {
+	background: #223342;
+}
+/*Dark*/
+.footer-section.footer-skin-dark .widget.widget_recent_entries li a:hover,
+.footer-section.footer-skin-dark .widget.widget_recent_comments li .comment-author-link a:hover,
+.footer-section.footer-skin-dark .widget.zozo_category_posts_widget li a:hover,
+.footer-section.footer-skin-dark .widget.widget_categories li a:hover,
+.footer-section.footer-skin-dark .widget.widget_archive li a:hover,
+.footer-section.footer-skin-dark .widget.widget_meta li a:hover,
+.footer-section.footer-skin-dark .widget.widget_nav_menu li a:hover,
+.footer-section.footer-skin-dark .widget.widget_nav_menu li.current_page_item a,
+.footer-section.footer-skin-dark .widget li .tweet-user-name a:hover,
+.footer-section.footer-skin-dark .widget.zozo_popular_posts_widget .posts-title > a:hover,
+.footer-section.footer-skin-dark .zozo-tabs-widget a:hover,
+.footer-section.footer-skin-dark .widget.widget_pages li > a:hover {
+	color: #fff;
+}
+/* ------------- Responsive Video Section ------------- */
+.video-bg .mb_YTVTime {
+	background:#223342;
+}
+.zozo-vc-modal-overlay-close {
+	background: #223342;
+}
+
+/* Twitter */
+.widget .tweet-item h5:before {
+	background:#223342;
+}
+/* Footer */
+.footer-copyright-section .zozo-social-icons.soc-icon-transparent i:hover {
+	color: #223342;
+}
+/* Timeline */
+.zozo-timeline-wrapper .timeline-align-right:before,
+.zozo-timeline-wrapper .timeline-align-left:after,
+.zozo-timeline-item.timeline-style-1 .zozo-time-separator-text .timeline-sep-text{
+	background:#223342;
+}
+.zozo-timeline-item.timeline-style-1 .timeline-content-wrapper,
+.zozo-timeline-item.timeline-style-1 .zozo-time-separator-text .timeline-sep-text{
+	border-color: #223342;
+}
+/* Widgets */
+.secondary_menu .widget_nav_menu ul li.menu-item > a:hover,
+.secondary_menu .widget_nav_menu ul li.menu-item > a:active,
+.secondary_menu .widget_nav_menu ul li.menu-item > a:focus {
+	color: #223342;
+}
+/* ================================================================
+ * BACK TO TOP
+ * ================================================================ */
+#zozo-backtotop {
+    background: #223342;
+}
+#zozo-backtotop:hover {
+    background: #223342;
+	background-color: rgba(34, 51, 66,0.8);
+}	
+/* --------------Selection Color-------------- */
+::-moz-selection {
+    background:#223342;
+    color: #fff;
+}
+::selection {
+	background:#223342;
+    color: #fff;
+}
+::-webkit-selection {
+    background:#223342;
+    color: #fff;
+}
+/* -------------- Revolution Slider ------------- */
+.zozo-revslider-section span {
+	color: #223342;
+}
+.typo-light .text-color,
+.typo-dark .text-color,
+.text-color {
+	color: #223342;
+}
+.theme-bg-color {
+	background: #223342;
+}
+.zozo-revslider-section .tp-bullets.simplebullets.round .bullet {
+    border-color: #223342;
+}
+.zozo-revslider-section .tp-bullets.simplebullets.round .bullet.selected {
+	background: #223342;
+}
+.zozo-revslider-section .tp-button {
+	border-color: #223342; 
+	background: #223342;	
+}
+.zozo-revslider-section .tp-button:hover {
+	color: #223342;
+}
+.rev_slider .tp-bannertimer {
+	background: #223342;
+}
+
+/* Blog Icon */
+article.post .post-inner-wrapper .post-featured-image a:before,
+.related-post-item .entry-thumbnail .post-img:before {
+	background-color: #223342;
+}
+.comment-container a:hover {
+	color: #223342;
+}
+/* Admin Page */
+.zozo-social-share-box .author-social li a,
+.zozo-social-share-box .author-social li a:hover,
+.zozo-social-share-box .author-social li a:focus,
+.zozo-social-share-box .author-social li a.active {
+	background-color: #223342;
+}
+.author-name a:hover {
+	color: #223342;
+}
+/* Plugin color */
+/* VC Post Grid */
+.vc_custom_heading.vc_gitem-post-data.vc_gitem-post-data-source-post_date > div {
+    color: #223342;
+}
+/* List Item */
+.hexagon li.icon_list_item .icon_list_icon {
+	background: #223342;
+	border-color: #223342;
+}
+.sitemap-wrapper ul li a:hover,
+.sitemap-wrapper ul li a:active,
+.sitemap-wrapper ul li a:focus {
+	color: #223342;
+}
+
+/* ================================================================
+ * Widget
+ * ================================================================ */
+/* Services menu */
+.sidebar .widget_nav_menu li a:hover,
+.sidebar .widget_nav_menu li a:focus,
+.sidebar .widget_nav_menu li a.active,
+.sidebar .widget_nav_menu .current-menu-item a {
+	background: #223342;
+}
